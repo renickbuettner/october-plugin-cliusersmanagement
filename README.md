@@ -6,6 +6,7 @@ This plugin allows administrators to perform tasks on backend users (like change
 
 > **NOTE:** there is no backend gui
 
+You can easily install the plugin by using the artisan cli.
 ```bash
 php artisan plugin:install martin.cliusersmanagement
 ```
